@@ -1,0 +1,17 @@
+server:
+  port: 8085
+  context-path: /demo
+
+person:
+  name: zhangsan
+  age: 20
+  boss: false
+  birthday: 2018/04/02
+  map: {k1: v1, v2: k2}
+  list:
+    - dog
+    - cat
+  car:
+    brand: A4L
+    color: red
+
